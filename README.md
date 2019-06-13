@@ -1,2 +1,2 @@
-# Pnggilan
+# Panggilan
 Tools by me
